@@ -50,7 +50,11 @@ npm install redux react-redux redux-promise redux-thunk --save
 [Download](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=ko&utm_source)
 
 
-###Class Component VS Functional Component
+#Information(Important)
+
+
+##### Class Component VS Functional Component
+
 | |Class|Functional|
 |------|---|---|
 |feature|More|less|
@@ -61,8 +65,8 @@ npm install redux react-redux redux-promise redux-thunk --save
 -> Extra Class Component feature
 ex) Mouting, Updating, Unmouting 
 
- <h2 style="color:red"> solve React HOOK </h2>
-so this project use React HOOK <br>
+ <span style="color:red"> solve React HOOK </span>
+so this project use React HOOK <br><br>
 
 
 ![redux_control](./client/redux%20control.png)
