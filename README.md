@@ -50,7 +50,7 @@ npm install redux react-redux redux-promise redux-thunk --save
 [Download](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=ko&utm_source)
 
 
-#Information(Important)
+# Information(Important)
 
 
 ##### Class Component VS Functional Component
