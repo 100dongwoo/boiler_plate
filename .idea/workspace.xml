@@ -21,6 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="8788f929-0c77-42c2-9dda-c6b36ef63b07" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +84,7 @@
       <workItem from="1595510707277" duration="3666000" />
       <workItem from="1595521427261" duration="749000" />
       <workItem from="1595568198634" duration="12487000" />
-      <workItem from="1595587950011" duration="3184000" />
+      <workItem from="1595587950011" duration="4322000" />
     </task>
     <servers />
   </component>
@@ -117,9 +120,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1220" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595573597827" />
-    <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1595578833514">
+    <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1595591183501">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1595578833514" />
+    <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1595591183501" />
   </component>
 </project>
