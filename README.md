@@ -66,8 +66,8 @@ npm install redux react-redux redux-promise redux-thunk --save
 -> Class Component Extra feature
 ex) Mouting, Updating, Unmouting 
 
- <span style="color:red"> solve React HOOK </span>
-so this project use React HOOK <br><br>
+ #### solve React HOOK <br>
+#### so this project use React HOOK <br><br>
 
 
 ![redux_control](./client/redux%20control.png)
