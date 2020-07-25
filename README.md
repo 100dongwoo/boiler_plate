@@ -1,6 +1,6 @@
 # boiler_plate
 
-#### Use System  (Back-End)
+# Use System  (Back-End)
 
 Postman   => 데이터 넣어주기 (Data push)
 MogoDB   
@@ -31,6 +31,7 @@ npm install react-router-dom --save <br>
  [router 문서링크](https://reactrouter.com/web/example/basic)
 
 npm install axios --save<br>
+<!-- state에 있던 값을 서버에 보내는 역할  -->
 
 npm install http-proxy-middleware --save<br>
 [proxy 문서링크]( https://create-react-app.dev/docs/proxying-api-requests-in-development)
@@ -42,7 +43,7 @@ npm install concurrently --save
 
 npm install antd --save
 <!-- css framework 디자인.
-import 'antd/dist/antd.css' 필dy -->
+import 'antd/dist/antd.css' 필요 -->
 
 npm install redux react-redux redux-promise redux-thunk --save
 
@@ -62,7 +63,7 @@ npm install redux react-redux redux-promise redux-thunk --save
 |Understand|Complex|Simple|
 |Speed|Slower|Fast|
 
--> Extra Class Component feature
+-> Class Component Extra feature
 ex) Mouting, Updating, Unmouting 
 
  <span style="color:red"> solve React HOOK </span>

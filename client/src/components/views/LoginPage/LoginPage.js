@@ -5,17 +5,14 @@ import {loginUser} from "../../../_actions/user_action";
 function LoginPage(props) {
 
     const dispatch = useDispatch()
-
-
     const [Email, setEmail] = useState("")     //state
     const [Password, setPassword] = useState("")   //state
-
     const onEmailHandler = (event) => {
-        setEmail(event.currentTarget.value)
+        setEmail(event.currentTarget.value)           //currentTarget정해진메소드
     }
 
     const onPasswordHandler = (event) => {
-        setPassword(event.currentTarget.value)
+        setPassword(event.currentTarget.value) //currentTarget정해진메소드
     }
 
     const onSubmitHandler = (event) => {
@@ -36,7 +33,7 @@ function LoginPage(props) {
                 }
             })
     }
-
+//onchage는 input 입력할떄마다 state값이 변경됨 value 값이 바뀐다
 
     return (
         <div style={{
@@ -44,8 +41,7 @@ function LoginPage(props) {
             , width: '100%', height: '100vh'
         }}>
             <form style={{display: 'flex', flexDirection: 'column'}}
-                  onSubmit={onSubmitHandler}
-            >
+                  onSubmit={onSubmitHandler}>
                 <label>Email</label>
                 <input type="email" value={Email} onChange={onEmailHandler}/>
                 <label>Password</label>
