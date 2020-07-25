@@ -2,7 +2,7 @@ import axios from 'axios'
 
 import {
     REGISTER_USER,
-    LOGIN_USER
+    LOGIN_USER,AUTH_USER
 } from './types'
 
 export function loginUser(dataToSubmit) {
@@ -25,3 +25,22 @@ export function registerUser(dataToSubmit) {
     }
 
 }
+
+
+
+
+
+
+
+export function auth() {
+    const request = axios.get('/api/users/auth',)
+        .then(response => response.data)
+    return {        //리듀서로 넘겨줌
+        type: AUTH_USER,
+        payload: request
+    }
+
+}
+
+
+

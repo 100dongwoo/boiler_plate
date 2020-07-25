@@ -20,8 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8788f929-0c77-42c2-9dda-c6b36ef63b07" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/client/src/hoc/auth.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/_actions/types.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/_actions/types.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/_actions/user_action.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/_actions/user_action.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/_reducers/user_reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/_reducers/user_reducer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/components/views/LandingPage/LandingPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/views/LandingPage/LandingPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/views/LoginPage/LoginPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/views/LoginPage/LoginPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/views/RegisterPage/RegisterPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/views/RegisterPage/RegisterPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/yarn.lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +90,7 @@
       <workItem from="1595510707277" duration="3666000" />
       <workItem from="1595521427261" duration="749000" />
       <workItem from="1595568198634" duration="12487000" />
-      <workItem from="1595587950011" duration="21380000" />
+      <workItem from="1595587950011" duration="24770000" />
     </task>
     <servers />
   </component>
@@ -118,9 +126,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1220" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595573597827" />
-    <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1595648630473">
+    <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1595651313639">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1595648630473" />
+    <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1595651313639" />
   </component>
 </project>
